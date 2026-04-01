@@ -1,28 +1,31 @@
-### 👋Hi there, I'm Fatima!
+### 👋 Hi, I'm Fatima!
 
-I'm an aspiring **Data Scientist** from Pakistan 🇵🇰  
-Currently focused on learning **Python**, **Data Analysis**, and **Machine Learning**.  
-Also preparing for **freelancing** and future **AI** projects.
+I'm an aspiring **AI Engineer** and experienced **Data Analyst** from Pakistan 🇵🇰.  
+I have a strong foundation in **Python, Pandas, NumPy, Matplotlib, SQL, and ETL pipelines**.
 
----
-
-### 🚀 What I'm Learning Right Now:
-- Python for Data Science 🐍
-- Pandas, NumPy, Matplotlib 📊
-- Data Cleaning & EDA 🧹
-- Machine Learning Basics 🤖
+Now, I’m focused on mastering **AI Engineering**, aiming to become a full-fledged AI Engineer.
 
 ---
 
-### 💼 Goals for 2025:
-- ✅ Complete my first Data Science Project
-- ✅ Build a freelancing-ready portfolio
-- 🔜 Start contributing to open-source
-- 🔜 Explore AI & Deep Learning
+### 💻 Skills & Tools:
+- **Python** 🐍 – Data analysis & automation  
+- **Pandas & NumPy** 📊 – Data manipulation & processing  
+- **Matplotlib & Seaborn** 📈 – Data visualization  
+- **SQL** ☁️ 
+- **Machine Learning & AI Basics** 🤖 – Preparing for advanced AI projects  
 
 ---
 
-### 📬 Let's Connect!
-- 💌 Email: fatima.datasciencelab@gmail.com
-- 💼 Fiverr/Upwork (coming soon...)
+### 🎯 Goals:
+- ✅ Apply my skills in **Data Analyst roles**  
+- ✅ Complete advanced **AI projects**  
+- ✅ Build a strong **AI & Data Science portfolio**  
+- 🔜 Contribute to **open-source AI projects**  
+- 🔜 Become a confident **AI Engineer** 
 
+---
+
+### 📬 Connect With Me:
+- 💌 Email: fatima.datasciencelab@gmail.com  
+- 💼 Fiverr/Upwork: Coming Soon  
+- 🔗 [GitHub Profile]
